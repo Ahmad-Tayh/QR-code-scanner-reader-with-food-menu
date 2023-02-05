@@ -1,0 +1,136 @@
+{
+    "name_of_restaurant": "Restaurant",
+    "menu": [
+      {
+        "cat_name": "Sandwich",
+        "items": [
+          { "item_name": "Chicken Sandwich", "price": 10, "image": "1-1" },
+          { "item_name": "Egg Sandwich", "price": 10, "image": "1-2" },
+          { "item_name": "Grilled Cheese", "price": 10, "image": "1-3" },
+          { "item_name": "Roast Beef Sandwich", "price": 10, "image": "1-4" },
+          { "item_name": "Seafood Sandwich", "price": 10, "image": "1-5" }
+        ]
+      },
+      {
+        "cat_name": "Hot Plates",
+        "items": [
+          {
+            "item_name": "chihot cken tikka mosala",
+            "price": 10,
+            "image": "2-1"
+          },
+          {
+            "item_name": "hot Black Bean & Winter Squash Soup",
+            "price": 10,
+            "image": "2-2"
+          },
+          {
+            "item_name": "hot Butter Poached Garlic Shrimp",
+            "price": 10,
+            "image": "2-3"
+          },
+          {
+            "item_name": "hot eggs in tomato sauce",
+            "price": 10,
+            "image": "2-4"
+          },
+          { "item_name": "hot-fried-rice", "price": 10, "image": "2-5" },
+          {
+            "item_name": "hot-sicilian-greens-and-omato-soup",
+            "price": 10,
+            "image": "2-6"
+          }
+        ]
+    },
+    {
+      "cat_name": "Salads",
+      "items": [
+        { "item_name": "Cobb Salad", "price": 10, "image": "3-1" },
+        { "item_name": "fattoush salad", "price": 10, "image": "3-2" },
+        { "item_name": "Greek Salad", "price": 10, "image": "3-3" },
+        { "item_name": "Pear Salad", "price": 10, "image": "3-4" },
+        { "item_name": "salad-Leafy Green Salad", "price": 10, "image": "3-5" }
+      ]
+    },
+    {
+      "cat_name": "Desserts",
+      "items": [
+        {
+          "item_name": "Apple and cinnamon creme caramel cakes",
+          "price": 10,
+          "image": "4-1"
+        },
+        {
+          "item_name": "Banoffee cream pudding with white choc crumble",
+          "price": 10,
+          "image": "4-2"
+        },
+        {
+          "item_name": "Chocolate mousse with cherry ripe truffles",
+          "price": 10,
+          "image": "4-3"
+        },
+        {
+          "item_name": "Chocolate, coconut and cherry sponge",
+          "price": 10,
+          "image": "4-4"
+        },
+        {
+          "item_name": "Coconut rough milkshakes",
+          "price": 10,
+          "image": "4-5"
+        },
+        { "item_name": "Coconut yoghurt cake", "price": 10, "image": "4-6" },
+        { "item_name": "Peach melba", "price": 10, "image": "4-7" },
+        {
+          "item_name": "Steamed meringue, pineapple granita and rum butterscotch sauce",
+          "price": 10,
+          "image": "4-8"
+        },
+        { "item_name": "Sticky ginger pudding", "price": 10, "image": "4-9" }
+      ]
+    },
+    {
+      "cat_name": "Drinks",
+      "items": [
+        { "item_name": "Flat White", "price": 10, "image": "5-1" },
+        { "item_name": "Frozen mango margarita", "price": 10, "image": "5-2" },
+        { "item_name": "Gin cocktail", "price": 10, "image": "5-3" },
+        { "item_name": "Iced Coffee", "price": 10, "image": "5-4" },
+        { "item_name": "Iced tea", "price": 10, "image": "5-5" },
+        {
+          "item_name": "Kiwi, lime and mint cooler",
+          "price": 10,
+          "image": "5-6"
+        },
+        { "item_name": "Mocha", "price": 10, "image": "5-7" },
+        {
+          "item_name": "Muhallabia (Middle Eastern milk pudding)",
+          "price": 10,
+          "image": "5-8"
+        },
+        { "item_name": "Passionfruit cocktail", "price": 10, "image": "5-9" },
+        {
+          "item_name": "Strawberry and orange spritz",
+          "price": 10,
+          "image": "5-10"
+        },
+        { "item_name": "Strawberry mocktail", "price": 10, "image": "5-11" },
+        { "item_name": "Sugarcane Juice", "price": 10, "image": "5-12" },
+        {
+          "item_name": "Watermelon and basil cooler",
+          "price": 10,
+          "image": "5-13"
+        }
+      ]
+    },
+    {
+      "cat_name": "Extras",
+      "items": [
+        { "item_name": "fried potato", "price": 10, "image": "6-1" },
+        { "item_name": "Canned chilies", "price": 10, "image": "6-2" },
+        { "item_name": "Mayonnaise", "price": 10, "image": "6-3" }
+      ]
+    }
+  ]
+}
